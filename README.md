@@ -34,6 +34,7 @@ Model experimentation is ongoing to determine the best architecture-performance 
 # 🚧 The model is currently under training and optimization.
 
 Ongoing challenges include:
+
 	•	GPU memory optimization
 	•	Checkpoint storage management
 	•	Training time reduction
