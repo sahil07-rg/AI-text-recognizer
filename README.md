@@ -51,6 +51,7 @@ Several configurations are being tested to improve accuracy and training stabili
 
 # 🚀 Future Vision
 The final goal is to deploy this as:
+
 	•	A web-based AI detection tool
 	•	REST API service
 	•	Lightweight inference model for real-time detection
