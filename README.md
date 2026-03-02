@@ -1,10 +1,11 @@
 # AITextRecognizer-487K-BART
 AI Text Recognizer – A transformer-based NLP model trained on 487K+ samples to classify human-written and AI-generated text. Currently under active development and training optimization.
 It is a transformer-based natural language processing (NLP) project designed to classify text as:
+
 	•	Human-written
 	•	AI-generated
 
-The model is being trained on a large-scale dataset containing 487,000+ text samples sourced from Kaggle.
+The model is being trained on a large-scale dataset containing 487,235 text samples sourced from Kaggle.
 
 # 🎯 Project Goal
 To build a robust AI detection system capable of distinguishing between:
