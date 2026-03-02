@@ -9,6 +9,7 @@ The model is being trained on a large-scale dataset containing 487,235 text samp
 
 # 🎯 Project Goal
 To build a robust AI detection system capable of distinguishing between:
+
 	•	Authentic human-written content
 	•	Machine-generated content (LLMs such as GPT-like systems)
 
