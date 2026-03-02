@@ -65,3 +65,11 @@ The final goal is to deploy this as:
 	•	HuggingFace Transformers
 	•	Scikit-learn
 	•	Kaggle GPU Environment
+
+### 👨‍💻 Author
+
+Sahil Kumar
+
+B.E. Robotics and Artificial Intelligence
+
+Sir M. Visvesvaraya Institute of Technology, Bengaluru
