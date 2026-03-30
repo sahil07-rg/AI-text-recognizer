@@ -141,6 +141,8 @@ Final prediction is based on learned patterns such as:
 	├── app.py              # Inference script
 	├── train.p             # Training pipeline
 	├── requirements.txt
+	├── License
+	├── notebookai2txt.ipynb
 	├── README.md
 	└── .gitignore
 
